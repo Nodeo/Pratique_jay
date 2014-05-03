@@ -31,6 +31,8 @@
 		</div>
 		<div id="footer">
 			<p>123 Your Street, Anytown, State 12345-6789 | Tel: (555) 555-5555</p>
+			allo
+			<p>allo</p>
 		</div>
 	</body>
 </html>
